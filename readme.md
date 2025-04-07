@@ -1,4 +1,4 @@
-##Natural language processing (NLP)# Driver's License Type Prediction
+Natural language processing (NLP)# Driver's License Type Prediction
 ![image alt](https://github.com/SyedAliNice/Traffic-Licencse-prediction-in-dubai/blob/520aabf077cc079f9c7dc4cc5d04e34b45d9b069/a-photograph-of-a-modern-dubai-cityscape_40_z3MBqR4Si2cF1GcPQMg_VV1Z2vpwTOyXy1kGw1Xg0A.jpeg)
 
 ## Introduction
